@@ -14,7 +14,8 @@ def multiply(a,b):
     return c
 
 def divide(a,b):
-    c=a/b
+    ##c=a/b
+    return a/b
 
 def substract(a,b):
     c=abs(a-b)
